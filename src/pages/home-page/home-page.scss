@@ -1,0 +1,43 @@
+page-home-page { 
+
+.mypadding{
+padding-top:30%;
+}
+
+  ion-card {
+    position: relative;
+    text-align: center;
+  }
+  $card-wp-padding:0px;
+
+  .card-title {
+    position: absolute;
+    top: 36%;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #397D02;
+  }
+
+  .card-subtitle {
+    font-size: 1.0em;
+    position: absolute;
+    top: 52%;
+    width: 100%;
+    color: #397D02;
+  }
+.content-md {
+    background-color: #397D02;
+
+	}
+
+.button{
+width:100%;
+max-width:70%;
+color:white;
+background-color:black;
+}
+ .no-scroll .scroll-content{
+         overflow: hidden;
+    } 
+}
